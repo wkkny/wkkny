@@ -39,7 +39,7 @@ DigiLicense/  # fork
 ```
 
 - [`pi-agent`](https://github.com/fuzzyKenny/pi-agent) is version-controlled configuration for the Pi coding agent, including allowlisted settings, prompts, extensions, themes, and managed skills.
-- [`scripts-configs`](https://github.com/fuzzyKenny/scripts-configs) contains public macOS dotfiles and utility scripts, with installation and sync commands. Local identity and secrets stay outside the repository.
+- [`scripts-configs`](https://github.com/fuzzyKenny/scripts-configs) contains public macOS dotfiles and utility scripts, with installation and sync commands. Local identity and secrets stay out of version control.
 - [`DigiLicense`](https://github.com/fuzzyKenny/DigiLicense) is a hackathon TanStack Start application for a clearer driving-licence workflow. It uses synthetic records and does not connect to government systems.
 
 All three repositories were verified as public on 2026-08-31.
