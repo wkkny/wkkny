@@ -2,10 +2,10 @@
 
 ```text
 Computer Science Student
-hours: 1 / 10,000
+hours: 2.44 / 10,000
 ```
 
-I'm starting to track time spent coding, debugging, and studying programming. It's at zero for now because I only just started keeping a record.
+I'm starting to track time spent coding, debugging, and studying programming. Just on my first few hours, trying my best to keep track of this, Wish me luck ;).
 
 ## Projects/Configs
 
