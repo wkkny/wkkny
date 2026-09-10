@@ -9,9 +9,7 @@ I'm starting to track time spent coding, debugging, and studying programming. Ju
 
 ## Projects/Configs
 
-- [My PI configs](https://github.com/fuzzyKenny/pi-agent)
-- [scripts-configs](https://github.com/fuzzyKenny/scripts-configs)
-- [DigiLicense](https://github.com/fuzzyKenny/DigiLicense)
+- [dotfiles](https://github.com/wkkny/dotfiles.git)
 
 ## Socials
 [X](https://x.com/fuzzykny)
