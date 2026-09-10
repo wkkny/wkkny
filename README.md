@@ -1,4 +1,4 @@
-# Kritiraj / fuzzyKenny
+# wkkny A.K.A Kenny
 
 ```text
 Computer Science Student
