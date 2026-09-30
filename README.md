@@ -4,7 +4,6 @@ I'm a computer science student who likes building useful software and making it 
 
 ## What I'm working on
 
-- [Trackem](https://github.com/wkkny/trackem) — A desktop app for checking AI subscription usage.
 - [My portfolio](https://www.wkkny.tech) — A little more about me and what I make.
 - [Dotfiles](https://github.com/wkkny/dotfiles) — My personal computer setup.
 
